@@ -1,0 +1,1 @@
+import{_t as e,yn as t}from"./BfCVQrZr.js";import{t as n}from"#entry";import"./_vHVE6W3.js";var r=n(t({__name:`pdpj`,setup(t){throw e({statusCode:404,statusMessage:`Não encontrado`})}}),[[`__scopeId`,`data-v-dbe926f9`]]);export{r as default};
